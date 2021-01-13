@@ -1,0 +1,10 @@
+header .top_part{
+    background-color: #FFFBF0;
+}
+.logo_part img{
+    max-width: 50%;
+    
+}
+ul li a{
+    float: right;
+}
